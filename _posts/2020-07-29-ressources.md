@@ -27,4 +27,4 @@ This document introduces briefly the main ideas of MCMC methods, explains one ex
 
 Probability distributions
 ----- 
-This document aims to describes briefly different probability distributions (pdf, expectation, variance, support and use) in order to have an overview of what are common probability distributions, in which case they can be used and why, and to use them to create new probability distributions or new modelings. 
+This document aims to describe briefly different probability distributions (pdf, expectation, variance, support and use) in order to have an overview of what are common probability distributions, in which case they can be used and why, and to use them to create new probability distributions or new modelings. The main goal was to have a simple and personal visual paper of existing probability distributions. (To be completed)
