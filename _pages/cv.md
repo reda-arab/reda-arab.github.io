@@ -9,53 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV [here](http://academicpages.github.io/files/CV-Github.pdf).
-
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* CPGE MPSI-MP*, Lycée Louis-le-Grand, 2014-2016 
+* MSc in Applied Mathematics, Statistics and Computer Science, CentraleSupélec (Centrale Paris) - Paris-Saclay University, 2016-2019
+* Master of Advanced Studies in Mathematics (Mathematical Statistics) - Part III University of Cambridge, 2019-2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Research Assistant
+  * Department of Medical Genetics, Univeristy of Cambridge 
+  * Title : Application of Polya-Gamma density for highly dimensional count regression models
+  * Supervisor: Dr Leonardo Bottolo
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* 2016-2018 : Undergraduate Research Assistant
+  * Ecole Centrale Paris, MICS Laboratory, BNP-Parisbas Research Chair
+  * Duties : Analyzed and implemented in Python trading strategies linked to autocorrelation and mean-reverting baskets
+  * Supervisor: Professor Frederic Abergel 
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2017-2018 : Mathematics Oral Examiner, Ministère de l'Education nationale.
+* Summer 2017 : Teaching Assistant - Summer school, Ecole Centrale Paris
+
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
