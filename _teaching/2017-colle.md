@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Mathematics course"
 permalink: /teaching/2017-colle
 venue: "Ministère de l'Education nationale"
-date : 2017-09
+date : 2017-09-01
 location: "Paris, France"
 ---
 
