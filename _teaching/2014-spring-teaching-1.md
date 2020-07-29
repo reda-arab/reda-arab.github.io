@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Mathematics course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Ecole Centrale Paris, Department of Mathematics"
-date: Summer 2017 
+date: 2017
 location: "Paris, France"
 ---
 
