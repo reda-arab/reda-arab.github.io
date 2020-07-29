@@ -17,10 +17,14 @@ Education
 
 Work experience
 ======
-* Summer 2020: Research Assistant
+* Summer 2020 : Research Assistant
   * Department of Medical Genetics, Univeristy of Cambridge 
   * Title : Application of Polya-Gamma density for highly dimensional count regression models
   * Supervisor: Dr Leonardo Bottolo
+  
+* 2018-2019 (6 months) : Financial Engineer Intern 
+  * Societe Generale Securties Tokyo
+  * Duties : Analyzed and priced equity derivatives and hybrid structures (simulation, pricing, evaluation of risk)
 
 * 2016-2018 : Undergraduate Research Assistant
   * Ecole Centrale Paris, MICS Laboratory, BNP-Parisbas Research Chair
