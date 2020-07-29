@@ -30,7 +30,7 @@ Work experience
 Teaching
 ======
 * 2017-2018 : Mathematics Oral Examiner, Ministère de l'Education nationale.
-* Summer 2017 : Teaching Assistant - Summer school, Ecole Centrale Paris
+* Summer 2017 : Teaching Assistant in Mathematics - Summer school 2020, Ecole Centrale Paris
 
 
   
