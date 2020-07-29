@@ -17,14 +17,14 @@ These handouts have been created for my personal use. Some parts are copied or i
 
 Variation Bayes 
 -----
-This document summarizes briefly the basic ideas of Variation Bayes Inference.
+This [document](/files/Variational Bayes Inference.pdf) summarizes briefly the basic ideas of Variation Bayes Inference.
 (Created for my summer research project 2020). 
 
 Sampling Methods : MCMC, Metropolis Hasting and Gibbs sampling
 -----
-This document introduces briefly the main ideas of MCMC methods, explains one example which is the Metropolis-Hasting algorithm and  Gibbs sampling for the multivariate case. 
+This [document](/files/Sampling Methods.pdf) introduces briefly the main ideas of MCMC methods, explains one example which is the Metropolis-Hasting algorithm and  Gibbs sampling for the multivariate case. 
 (Created for my summer research project 2020. Might be completed)
 
 Probability distributions
 ----- 
-This document aims to describe briefly different probability distributions (pdf, expectation, variance, support and use) in order to have an overview of what are common probability distributions, in which case they can be used and why, and to use them to create new probability distributions or new modelings. The main goal was to have a simple and personal visual paper of existing probability distributions. (To be completed)
+This [document]((/files/Probability distributions.pdf) aims to describe briefly different probability distributions (pdf, expectation, variance, support and use) in order to have an overview of what are common probability distributions, in which case they can be used and why, and to use them to create new probability distributions or new modelings. The main goal was to have a simple and personal visual paper of existing probability distributions. (To be completed)
