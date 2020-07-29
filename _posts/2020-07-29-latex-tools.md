@@ -2,13 +2,14 @@
 title: 'Useful tools for LaTex'
 date: 2020-07-29
 permalink: /posts/2020/07/latex-tools/
+excerpt: This blog post introduces two tools to write faster in LaTex. <br/><img src='/images/mathpix-latex.png'>
 tags:
   - LaTex
   - VIM
   - Mathpix Snipping Tool
 ---
 
-This blog post introduces two tools to write faster in LaTex. <br/><img src='/images/mathpix-latex.png'>
+
 
 Mathpix Snipping Tool 
 ======
