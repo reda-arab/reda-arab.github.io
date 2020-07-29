@@ -2,7 +2,7 @@
 title: 'Useful tools for LaTex'
 date: 2020-07-29
 permalink: /posts/2020/07/latex-tools/
-excerpt: This blog post introduces two tools to write faster in LaTex. <br/><img src='/images/mathpix-latex.png' style="width:128px;height:128px;">
+excerpt: This blog post introduces two tools to write faster in LaTex. <br/><img src='/images/mathpix-latex.png' style="width:256px;height:256px;">
 tags:
   - LaTex
   - VIM
