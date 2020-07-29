@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my CV [here](http://academicpages.github.io/files/CV-Github.pdf).
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
