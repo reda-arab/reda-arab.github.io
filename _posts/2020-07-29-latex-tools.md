@@ -9,8 +9,6 @@ tags:
   - Mathpix Snipping Tool
 ---
 
-
-
 Mathpix Snipping Tool 
 ======
 [Mathpix Snipping Tool](https://mathpix.com/) is a software that allows to take screenshots of Mathematics' formulas from PDFs or handwritten notes and obtain the corresponding LaTex formulas. 
