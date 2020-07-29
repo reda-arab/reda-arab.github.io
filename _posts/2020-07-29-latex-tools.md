@@ -19,4 +19,4 @@ For my personal experience, it does not really work well with handwritten notes 
 
 Vim
 ======
-I found this article ["How I'm able to take notes in mathematics lectures using LaTeX and Vim"](https://castel.dev/post/lecture-notes-1/) which explains a very interesting setup which allows to write LaTex very fast using Vim. 
+I found this article ["How I'm able to take notes in mathematics lectures using LaTeX and Vim"](https://castel.dev/post/lecture-notes-1/) which explains a very interesting setup allowing to write in LaTex very fast using Vim. 
