@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Summer school Centrale Paris"
 collection: teaching
 type: "Undergraduate Mathematics course"
 permalink: /teaching/2014-spring-teaching-1
