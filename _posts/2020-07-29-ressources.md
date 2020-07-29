@@ -1,8 +1,8 @@
 ---
-title: 'Mathematics ressources'
+title: 'Mathematics resources'
 date: 2020-07-29
 permalink: /posts/2020/07/summer-project/
-excerpt: This blog post gathers some personal Mathematics ressources. <br/><img src='/images/math.jpg' style="width:256px;height:256px;">
+excerpt: This blog post gathers some personal Mathematics resources. <br/><img src='/images/math.jpg' style="width:256px;height:256px;">
 tags:
   - Handouts
   - Probability and Statistics
