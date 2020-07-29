@@ -7,7 +7,7 @@ venue: "Ecole Centrale Paris, Department of Mathematics"
 location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught Mathematics to international students, prepared teaching materials and marked tests.
 
 Algebra (basic)
 ======
