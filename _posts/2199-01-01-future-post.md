@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Latex configuration (Mathpix snipping tool + VIM) ; Gathering of interesting links per domain (Maths, Computer science,...) ; Personal handouts created for this summer porject ; Interesting books (neuroscience, learning, ...), ... 
