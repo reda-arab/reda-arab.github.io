@@ -8,7 +8,7 @@ tags:
   - Mathpix Snipping Tool
 ---
 
-This blog post introduces two tools to write faster in LaTex. 
+This blog post introduces two tools to write faster in LaTex. <br/><img src='/images/mathpix-latex.png'>
 
 Mathpix Snipping Tool 
 ======
