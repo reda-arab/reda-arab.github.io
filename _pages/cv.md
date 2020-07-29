@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * CPGE MPSI-MP*, Lycée Louis-le-Grand, 2014-2016 
-* MSc in Applied Mathematics, Statistics and Computer Science, CentraleSupélec (Centrale Paris) - Paris-Saclay University, 2016-2019
+* MSc in Applied Mathematics, CentraleSupélec (Centrale Paris) - Paris-Saclay University, 2016-2019
 * Master of Advanced Studies in Mathematics (Mathematical Statistics) - Part III University of Cambridge, 2019-2020
 
 Work experience
