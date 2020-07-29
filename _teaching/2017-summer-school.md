@@ -9,7 +9,7 @@ location: "Paris, France"
 
 Taught Mathematics to international students, prepared teaching materials and marked tests.
 
-Algebra (basic)
+Algebra & Linear Algebra (basic)
 ======
 
 Analysis (basic)
