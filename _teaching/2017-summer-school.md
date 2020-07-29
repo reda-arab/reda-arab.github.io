@@ -2,7 +2,7 @@
 title: "Summer school Centrale Paris 2017"
 collection: teaching
 type: "Undergraduate Mathematics course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2017-summer-school
 venue: "Ecole Centrale Paris, Department of Mathematics"
 location: "Paris, France"
 ---
