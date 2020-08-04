@@ -22,6 +22,8 @@ This [document](https://reda-arab.github.io/files/Variational Bayes Inference.pd
 
 Sampling Methods : MCMC, Metropolis Hasting and Gibbs sampling
 -----
+<br/><img src='/images/MCMC_posterior.gif' style="width:350px;height:256px" class= "center">
+
 This [document](https://reda-arab.github.io/files/Sampling Methods.pdf) introduces briefly the main ideas of MCMC methods, explains one example which is the Metropolis-Hasting algorithm and  Gibbs sampling for the multivariate case. 
 (Created for my summer research project 2020. Might be completed)
 
