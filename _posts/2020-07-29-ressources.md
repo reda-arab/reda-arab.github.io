@@ -27,7 +27,7 @@ This [document](https://reda-arab.github.io/files/Sampling Methods.pdf) introduc
 
 Probability distributions
 ----- 
-<br/><img src='/images/Proba_distributions.jpg' style="width:200px;height:200px;">
+<br/><img src='/images/Proba_distributions.jpg' style="width:200px;height:200px;text-align: center">
 
 Source : Twitter, Sacha schutz https://twitter.com/dridk
 
