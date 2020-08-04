@@ -27,4 +27,6 @@ This [document](https://reda-arab.github.io/files/Sampling Methods.pdf) introduc
 
 Probability distributions
 ----- 
+<br/><img src='/images/Proba_distributions.jpg' style="width:256px;height:256px;">
+
 This [document](https://reda-arab.github.io/files/Probability distributions.pdf) aims to describe briefly different probability distributions (pdf, expectation, variance, support and use) in order to have an overview of what are common probability distributions, in which case they can be used and why, and to use them to create new probability distributions or new modelings. The main goal was to have a simple and personal visual paper of existing probability distributions. (To be completed)
