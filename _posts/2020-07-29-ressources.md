@@ -24,6 +24,8 @@ Sampling Methods : MCMC, Metropolis Hasting and Gibbs sampling
 -----
 <br/><img src='/images/MCMC_posterior.gif' style="width:350px;height:256px" class= "center">
 
+Source of the image : Maxwell Joseph, [Blog post](https://blog.revolutionanalytics.com/2013/09/an-animated-peek-into-the-workings-of-bayesian-statistics.html?utm_content=bufferb36c2&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer)
+
 This [document](https://reda-arab.github.io/files/Sampling Methods.pdf) introduces briefly the main ideas of MCMC methods, explains one example which is the Metropolis-Hasting algorithm and  Gibbs sampling for the multivariate case. 
 (Created for my summer research project 2020. Might be completed)
 
