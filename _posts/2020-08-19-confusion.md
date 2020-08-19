@@ -14,7 +14,7 @@ Vous trouverez [ce document](https://reda-arab.github.io/files/Facteur de confus
 
 English version 
 ======
-This [document](hzez) 
+This [document](https://reda-arab.github.io/files/Confounding.pdf) aims to explain intuitively the notion of confounding through two examples. 
 
 Interesting links 
 ======
