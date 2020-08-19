@@ -16,7 +16,7 @@ English version
 ======
 This [document](hzez) 
 
-Other links 
+Interesting links 
 ======
 For French speaker, you can find this [video](https://www.youtube.com/watch?v=vs_Zzf_vL2I) on Youtube. 
 
