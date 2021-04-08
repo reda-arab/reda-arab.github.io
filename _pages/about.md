@@ -10,11 +10,11 @@ redirect_from:
 
 ## About me
 
-I am a master's student in Mathematical Statistics at the [University of Cambridge](http://www.dpmms.cam.ac.uk/).
-
-I also graduated from [Ecole CentraleSupélec](https://en.wikipedia.org/wiki/CentraleSup%C3%A9lec) [(Centrale Paris pathway)](https://en.wikipedia.org/wiki/%C3%89cole_Centrale_Paris) within [Paris-Saclay University](https://en.wikipedia.org/wiki/Paris-Saclay_University) [(see Shanghai Ranking in Mathematics)](http://www.shanghairanking.com/Shanghairanking-Subject-Rankings/mathematics.html) and before that, I completed two years of preparatory program (CPGE) at [Lycée Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand).  
+I graduated in Mathematical Statistics from the [University of Cambridge](http://www.dpmms.cam.ac.uk/) and I also graduated from [Ecole CentraleSupélec](https://en.wikipedia.org/wiki/CentraleSup%C3%A9lec) [(Centrale Paris pathway)](https://en.wikipedia.org/wiki/%C3%89cole_Centrale_Paris) within [Paris-Saclay University](https://en.wikipedia.org/wiki/Paris-Saclay_University) [(see Shanghai Ranking in Mathematics)](http://www.shanghairanking.com/Shanghairanking-Subject-Rankings/mathematics.html). Before that, I completed two years of preparatory program (CPGE) at [Lycée Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand).  
 
 
 ## Current Projects
 
-I am currently a graduate research assistant in the [Department of Medical Genetics](https://medgen.medschl.cam.ac.uk/) of the University of Cambridge, working on *Application of Polya-Gamma density for highly dimensional count regression models.* Advisor : [Leonardo Bottolo](https://www.c2d3.cam.ac.uk/directory/266/dr-leonardo-bottolo).
+I am currently doing an internship at ENS Ulm/Inria working on *Multi-task learning and Huntington's disease*. 
+
+Last summer, I was a graduate research assistant in the [Department of Medical Genetics](https://medgen.medschl.cam.ac.uk/) of the University of Cambridge, working on *Application of Polya-Gamma density for highly dimensional count regression models.* Advisor : [Leonardo Bottolo](https://www.c2d3.cam.ac.uk/directory/266/dr-leonardo-bottolo).
