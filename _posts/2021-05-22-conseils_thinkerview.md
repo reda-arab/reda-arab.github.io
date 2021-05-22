@@ -17,7 +17,7 @@ Pratiquement chaque intervenant doit répondre à une question qui prend souvent
 Conseils aux jeunes générations
 ======
 
-Dans ce [document]((https://reda-arab.github.io/files/Complet - Thinkerview - Conseils pour les jeunes générations .pdf), j’essaie de retranscrire les propos des intervenants mais je saute des passages de leur propos, et parfois je réécris, tout en essayant de rester le plus fidèle possible à leurs idées. Bien sûr, ce que je n’inclus pas et ma façon de réécrire sont subjectifs.
+Dans ce [document](https://reda-arab.github.io/files/Complet - Thinkerview - Conseils pour les jeunes générations .pdf), j’essaie de retranscrire les propos des intervenants mais je saute des passages de leur propos, et parfois je réécris, tout en essayant de rester le plus fidèle possible à leurs idées. Bien sûr, ce que je n’inclus pas et ma façon de réécrire sont subjectifs.
 
 Un lien vers la vidéo avec une time code est inclus pour avoir le propos brut des
 intervenants.
@@ -35,6 +35,6 @@ L’ordre est chronologique.
 
 Annexes 
 ====
-[Sommaire]((https://reda-arab.github.io/files/Sommaire - Thinkerview - Conseils pour les jeunes générations.pdf)
-[Conseils seulement]((https://reda-arab.github.io/files/Conseils seuls - Thinkerview - Conseils pour les jeunes générations.pdf)
+[Sommaire](https://reda-arab.github.io/files/Sommaire - Thinkerview - Conseils pour les jeunes générations.pdf)
+[Conseils seulement](https://reda-arab.github.io/files/Conseils seuls - Thinkerview - Conseils pour les jeunes générations.pdf)
 
