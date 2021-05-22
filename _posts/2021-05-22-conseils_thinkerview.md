@@ -19,17 +19,11 @@ Conseils aux jeunes générations
 
 Dans ce [document](https://reda-arab.github.io/files/Complet - Thinkerview - Conseils pour les jeunes générations .pdf), j’essaie de retranscrire les propos des intervenants mais je saute des passages de leur propos, et parfois je réécris, tout en essayant de rester le plus fidèle possible à leurs idées. Bien sûr, ce que je n’inclus pas et ma façon de réécrire sont subjectifs.
 
-Un lien vers la vidéo avec une time code est inclus pour avoir le propos brut des
-intervenants.
+Un lien vers la vidéo avec une time code est inclus pour avoir le propos brut des intervenants.
 
-Pour chaque interview, est indiqué le nom de l’intervenant (ou des intervenants), une courte
-description de l’intervenant (pour savoir quel type de personne parle) et la date de mise en
-ligne de la vidéo sur Youtube (et pas celle d’enregistrement).
+Pour chaque interview, sont indiqués le nom de l’intervenant (ou des intervenants), une courte description de l’intervenant (pour savoir quel type de personne parle) et la date de mise en ligne de la vidéo sur Youtube (et pas celle d’enregistrement).
 
-Est rajouté, quand la question est posée lors de l’interview, des livres conseillés par
-l’intervenant (il se peut que je n’ai pas noté parfois des livres conseillés par les intervenants
-car ce n’est pas le but premier du document). Quand je note ‘Omission’ cela veut dire que
-soit la question n’a pas été posée soit que j’ai pu rater le passage où la question est posée.
+Sont rajoutés, quand la question est posée lors de l’interview, des livres conseillés par l’intervenant (il se peut que je n’ai pas noté parfois des livres conseillés par les intervenants car ce n’est pas le but premier du document). Quand je note ‘Omission’ cela veut dire que soit la question n’a pas été posée soit que j’ai pu rater le passage où la question est posée.
 
 L’ordre est chronologique.
 
