@@ -12,14 +12,14 @@ tags:
 
 I believe that gathering information is important. I sometimes struggle to find important information as it is often scattered in different websites (e.g. on blogs, newspapers articles, university websites,  PDFs ,...).
 In my opinion, it becomes important to create structures to gather important data, ressources in simple and efficient ways in order to access to information easily and quickly. It could be very interesting if people 
-who knows which ressources are important in a field (e.g. experts, researchers) begin to do it. 
+who knows which ressources are important in a field (e.g. experts, researchers) do it more often. 
 The aim of this blog post is to try to apply this idea in practice for some fields. 
 
 
 Machine Learning ressources
 ======
-You can find here a blog post of Sam Finlayson who gathered a lot of ressources and published them online  
-https://sgfin.github.io/learning-resources/?fbclid=IwAR1mdvyzKHj4Z1jvBKsZTzpZiDwDO8wRmAruv69p_1I223WizSuwqhVy9fE#causal
+You can find [here](https://sgfin.github.io/learning-resources/?fbclid=IwAR1mdvyzKHj4Z1jvBKsZTzpZiDwDO8wRmAruv69p_1I223WizSuwqhVy9fE#causal) a blog post of Sam Finlayson who gathered a lot of ressources and published them online  
+
 
 I want to add some other interesting ressources : 
 - All courses on [Coursera](https://www.coursera.org/) given by deeplearning.ai and Andrew Ng concerning Machine Learning and Deep Learning.
