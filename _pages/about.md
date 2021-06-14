@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-I graduated in Mathematical Statistics from the [University of Cambridge](http://www.dpmms.cam.ac.uk/) and I also graduated from [Ecole CentraleSupélec](https://en.wikipedia.org/wiki/CentraleSup%C3%A9lec) [(Centrale Paris pathway)](https://en.wikipedia.org/wiki/%C3%89cole_Centrale_Paris) within [Paris-Saclay University](https://en.wikipedia.org/wiki/Paris-Saclay_University) [(see Shanghai Ranking in Mathematics)](http://www.shanghairanking.com/Shanghairanking-Subject-Rankings/mathematics.html). Before that, I completed two years of preparatory program (CPGE) at [Lycée Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand).  
+I graduated in Mathematical Statistics from the [University of Cambridge](http://www.dpmms.cam.ac.uk/) and I also graduated from [Ecole CentraleSupélec](https://en.wikipedia.org/wiki/CentraleSup%C3%A9lec) [(Centrale Paris pathway)](https://en.wikipedia.org/wiki/%C3%89cole_Centrale_Paris) within [Paris-Saclay University](https://en.wikipedia.org/wiki/Paris-Saclay_University) [(see Shanghai Ranking in Mathematics)](https://www.shanghairanking.com/rankings/gras/2021/RS0101). Before that, I completed two years of preparatory program (CPGE) at [Lycée Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand).  
 
 
 ## Current Projects
