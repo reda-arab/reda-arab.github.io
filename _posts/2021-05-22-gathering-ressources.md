@@ -31,8 +31,11 @@ I want to add some other interesting ressources :
 - [Kaggle courses and competitions](https://www.kaggle.com/) in order to put into practice theories (ML, DL, NLP,...)
 - For French readers : un [lexique utile](http://variances.eu/?p=5212&fbclid=IwAR3iBy6FM3TDI4m_0BJyyp3iDZ8xrqXXtQ3otVSz44RdDBMqXI-vMl3seAI ) pour le jargon du ML 
 - [Deep learning courses](http://introtodeeplearning.com/) by MIT 
-- An [article]((https://towardsdatascience.com/best-resources-for-deep-learning-f4c774356734) by Pierre Sadrach which gathers deep learning ressources
+- An [article](https://towardsdatascience.com/best-resources-for-deep-learning-f4c774356734) by Pierre Sadrach which gathers deep learning ressources
 
 PhD ressources 
 ======
 An [interesting blog post](https://gdalle.github.io/PhDResources/) published by Guillaume Dalle on useful ressources for PhD students 
+
+
+If you are interesting in adding ressources on this post, please feel free to send me a message. 
