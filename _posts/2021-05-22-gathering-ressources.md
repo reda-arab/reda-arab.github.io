@@ -17,7 +17,7 @@ The aim of this blog post is to try to apply this idea in practice for some fiel
 
 I will update this post or create a serie of posts in the future to add/update the ressources.
 
-N.B. : I share ressources that I found useful and relevant only. 
+N.B. : I share ressources that I found useful and relevant.
 
 Machine Learning ressources
 ======
