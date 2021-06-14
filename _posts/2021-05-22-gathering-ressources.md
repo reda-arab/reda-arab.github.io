@@ -17,6 +17,7 @@ The aim of this blog post is to try to apply this idea in practice for some fiel
 
 I will update this post or create a serie of posts in the future to add/update the ressources.
 
+N.B. : I share ressources that I found useful and relevant only. 
 
 Machine Learning ressources
 ======
@@ -29,6 +30,8 @@ I want to add some other interesting ressources :
 - Ressources on [Qingyuan Zhao's website](http://www.statslab.cam.ac.uk/~qz280/teaching/causal-2020/) on Causal Inference
 - [Kaggle courses and competitions](https://www.kaggle.com/) in order to put into practice theories (ML, DL, NLP,...)
 - For French readers : un [lexique utile](http://variances.eu/?p=5212&fbclid=IwAR3iBy6FM3TDI4m_0BJyyp3iDZ8xrqXXtQ3otVSz44RdDBMqXI-vMl3seAI ) pour le jargon du ML 
+- [Deep learning courses](http://introtodeeplearning.com/) by MIT 
+- An [article]((https://towardsdatascience.com/best-resources-for-deep-learning-f4c774356734) by Pierre Sadrach which gathers deep learning ressources
 
 PhD ressources 
 ======
