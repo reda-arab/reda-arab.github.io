@@ -15,6 +15,8 @@ In my opinion, it becomes important to create structures to gather important dat
 who knows which ressources are important in a field (e.g. experts, researchers) do it more often. 
 The aim of this blog post is to try to apply this idea in practice for some fields. 
 
+I will update this post or create a serie of posts in the future to add/update the ressources.
+
 
 Machine Learning ressources
 ======
