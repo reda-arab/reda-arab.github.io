@@ -11,12 +11,12 @@ tags:
 ---
 
 I believe that gathering information is important and critical. I sometimes struggle to find important information as it is often scattered in different websites (for example on blogs, newspapers articles, university websites, PDFs ,...).
-In my opinion, it is useful to create structures to gather important data and ressources in simple and efficient ways in order to access to information easily and quickly. It could be very interesting if people who have an expertise in a field and who are in a position in which they know which ressources are important (e.g. experts, researchers) do it more often. 
+In my opinion, it will be useful to create structures to gather important data and ressources in simple and efficient ways in order to access to information easily and quickly. It could be very interesting if people who have an expertise in a field and who are in a position in which they know which ressources are important (e.g. experts, researchers) do it more often. 
 The aim of this blog post is to try to apply this idea in practice for some fields. 
 
 I will update this post or create a serie of posts in the future to add/update the ressources.
 
-N.B. : I share ressources that I found useful and relevant.
+N.B. : The way I choose ressources is based only on what I found useful and relevant.
 
 Machine Learning ressources
 ======
