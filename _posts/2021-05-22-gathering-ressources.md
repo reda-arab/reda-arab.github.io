@@ -10,8 +10,8 @@ tags:
   - Gathering of information
 ---
 
-I believe that gathering information is important and critical. I sometimes struggle to find important information as it is often scattered in different websites (for example on blogs, newspapers articles, university websites, PDFs ,...).
-In my opinion, it will be useful to create structures to gather important data and ressources in simple and efficient ways in order to access to information easily and quickly. It could be very interesting if people who have an expertise in a field and who are in a position in which they know which ressources are important (e.g. experts, researchers) do it more often. 
+Gathering information is important and critical. I sometimes struggle to find important information as it is often scattered in different websites (for example on blogs, newspapers articles, university websites, PDFs ,...).
+It will be useful to create structures to gather important data and ressources in simple and efficient ways in order to access to information easily and quickly. It could be very interesting if people who have an expertise in a field and who are in a position in which they know which ressources are important (e.g. experts, researchers) do it more often. 
 The aim of this blog post is to try to apply this idea in practice for some fields. 
 
 I will update this post or create a serie of posts in the future to add/update the ressources.
@@ -20,7 +20,7 @@ N.B. : The way I choose ressources is based only on what I found useful and rele
 
 Machine Learning ressources
 ======
-You can find [here](https://sgfin.github.io/learning-resources/?fbclid=IwAR1mdvyzKHj4Z1jvBKsZTzpZiDwDO8wRmAruv69p_1I223WizSuwqhVy9fE#causal) a blog post of Sam Finlayson who gathered a lot of ressources and published them online  
+You can find [here](https://sgfin.github.io/learning-resources/?fbclid=IwAR1mdvyzKHj4Z1jvBKsZTzpZiDwDO8wRmAruv69p_1I223WizSuwqhVy9fE#causal) a blog post of Sam Finlayson who gathered a lot of ressources and published them online. A similar type of [blog post](https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524) on Medium from Robbie Allen.
 
 
 I want to add some other interesting ressources : 
@@ -31,6 +31,8 @@ I want to add some other interesting ressources :
 - For French readers : un [lexique utile](http://variances.eu/?p=5212&fbclid=IwAR3iBy6FM3TDI4m_0BJyyp3iDZ8xrqXXtQ3otVSz44RdDBMqXI-vMl3seAI ) pour le jargon du ML 
 - [Deep learning courses](http://introtodeeplearning.com/) by MIT 
 - An [article](https://towardsdatascience.com/best-resources-for-deep-learning-f4c774356734) by Pierre Sadrach which gathers deep learning ressources
+
+- A non-exhaustive [list](https://medium.springboard.com/30-twitter-influencers-you-have-to-follow-for-ai-machine-learning-977587b6406e) of some Twitter influencers on AI. 
 
 PhD ressources 
 ======
