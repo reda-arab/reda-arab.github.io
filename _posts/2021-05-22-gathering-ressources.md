@@ -1,6 +1,6 @@
 ---
 title: 'Gathering of ressources/interesting links'
-date: 2021-06-14
+date: 2021-06-21
 permalink: /posts/2020/07/gathering-ressources/
 excerpt: This blog post aims to provide different ressources gathered in a simple way. <br/><img src='/images/centralization.png' style="width:256px;height:256px;">
 tags:
