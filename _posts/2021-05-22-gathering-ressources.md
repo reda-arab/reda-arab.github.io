@@ -33,7 +33,8 @@ I want to add some other interesting ressources :
 - An [article](https://towardsdatascience.com/best-resources-for-deep-learning-f4c774356734) by Pierre Sadrach which gathers deep learning ressources
 - Different [cheatsheets](https://github.com/shervinea?tab=repositories) by Shervine Amidi
 - A non-exhaustive [list](https://medium.springboard.com/30-twitter-influencers-you-have-to-follow-for-ai-machine-learning-977587b6406e) of some Twitter influencers on AI. 
-- [Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) by Chip Huyen. Her [blog](https://huyenchip.com/blog/) contains interesting articles also.  
+- [Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) by Chip Huyen. Her [blog](https://huyenchip.com/blog/) contains interesting articles also. 
+- [Datasets](https://paperswithcode.com/datasets) from paperswithcode.  
 
 PhD ressources 
 ======
