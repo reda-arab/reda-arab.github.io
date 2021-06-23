@@ -31,7 +31,7 @@ I want to add some other interesting ressources :
 - For French readers : un [lexique utile](http://variances.eu/?p=5212&fbclid=IwAR3iBy6FM3TDI4m_0BJyyp3iDZ8xrqXXtQ3otVSz44RdDBMqXI-vMl3seAI ) pour le jargon du ML 
 - [Deep learning courses](http://introtodeeplearning.com/) by MIT 
 - An [article](https://towardsdatascience.com/best-resources-for-deep-learning-f4c774356734) by Pierre Sadrach which gathers deep learning ressources
-
+- Different [cheatsheets](https://github.com/shervinea?tab=repositories) by Shervine Amidi
 - A non-exhaustive [list](https://medium.springboard.com/30-twitter-influencers-you-have-to-follow-for-ai-machine-learning-977587b6406e) of some Twitter influencers on AI. 
 
 PhD ressources 
