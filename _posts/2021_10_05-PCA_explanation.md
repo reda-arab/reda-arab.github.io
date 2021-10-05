@@ -1,7 +1,7 @@
 ---
 title: 'PCA : an intuitive explanation '
 date: 2021-10-05
-permalink: /posts/2021/10/PCA_explanation/
+permalink: /posts/2020/07/PCA_explanation/
 excerpt: This blog post aims to give an intuitive explanation of PCA. <br/><img src='/images/PCA.jpg' style="width:256px;height:256px;">
 tags:
   - PCA
