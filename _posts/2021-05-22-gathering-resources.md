@@ -35,4 +35,4 @@ I want to add some other interesting resources :
 - [Datasets](https://paperswithcode.com/datasets) from paperswithcode.  
 
 
-If you are interesting in adding resources on this post, please feel free to send me a message. 
+If you are interested in adding resources on this post, please feel free to send me a message. 
