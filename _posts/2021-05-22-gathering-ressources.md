@@ -35,6 +35,7 @@ I want to add some other interesting ressources :
 - A non-exhaustive [list](https://medium.springboard.com/30-twitter-influencers-you-have-to-follow-for-ai-machine-learning-977587b6406e) of some Twitter influencers on AI. 
 - [Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) by Chip Huyen. Her [blog](https://huyenchip.com/blog/) contains interesting articles also. 
 - [Datasets](https://paperswithcode.com/datasets) from paperswithcode.  
+- Open-Source Machine Learning libraries : [Scikit-Learn](https://scikit-learn.org/stable/) , [Keras.io](https://keras.io/), [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/) (Microsoft), [Caffe](https://caffe.berkeleyvision.org/) (library of Berkeley AI Research - BAIR).
 
 PhD ressources 
 ======
