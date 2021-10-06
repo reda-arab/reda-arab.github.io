@@ -17,4 +17,3 @@ I graduated in Mathematical Statistics from the [University of Cambridge](http:/
 
 My last role was working as an intern at ENS Ulm/Inria working on *Multi-task learning and Huntington's disease*. 
 
-Last summer, I was a graduate research assistant in the [Department of Medical Genetics](https://medgen.medschl.cam.ac.uk/) of the University of Cambridge, working on *Application of Polya-Gamma density for highly dimensional count regression models.* Advisor : [Leonardo Bottolo](https://www.c2d3.cam.ac.uk/directory/266/dr-leonardo-bottolo).
