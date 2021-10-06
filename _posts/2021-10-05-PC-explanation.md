@@ -13,7 +13,7 @@ Summary PCA
 ======
 I made a [document](https://reda-arab.github.io/files/PCA_Intuitive_explanation_english.pdf) which aims to give an intuitive mathematical explanation of PCA (Principal Component Analysis).
 
-An [French version](https://reda-arab.github.io/files/PCA_Intuitive_explanation_english.pdf) is available (https://reda-arab.github.io/files/PCA_Explication_intuitive_francais.pdf)
+An [French version](https://reda-arab.github.io/files/PCA_Intuitive_explanation_english.pdf) is also available.
 
 Interesting ressources on PCA : 
 ======
