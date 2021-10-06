@@ -23,5 +23,5 @@ A [video](https://www.youtube.com/watch?v=FgakZw6K1QQ) on Youtube by StatQuest.
 
 A [post on PCA for Data Science](https://pca4ds.github.io/) by Tomas Aluja-Banetn, Alain Morineau and Gaston Sanchez.
 
-Well-explained lectures by Ryan Tibshirani : [part I](https://reda-arab.github.io/files/07-dim1.pdf), [part II](https://reda-arab.github.io/files/08-dim1.pdf) and part III(https://reda-arab.github.io/files/09-dim3.pdf). The entire course on Data Mining can be found [here](https://www.stat.cmu.edu/~ryantibs/datamining/lectures/).
+Well-explained lectures by Ryan Tibshirani : [part I](https://reda-arab.github.io/files/07-dim1.pdf), [part II](https://reda-arab.github.io/files/08-dim1.pdf) and [part III](https://reda-arab.github.io/files/09-dim3.pdf). The entire course on Data Mining can be found [here](https://www.stat.cmu.edu/~ryantibs/datamining/lectures/).
 
