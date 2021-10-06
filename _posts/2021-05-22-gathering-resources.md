@@ -24,7 +24,8 @@ You can find [here](https://sgfin.github.io/learning-resources/?fbclid=IwAR1mdvy
 I want to add some other interesting resources : 
 - All courses on [Coursera](https://www.coursera.org/) given by deeplearning.ai and Andrew Ng concerning Machine Learning and Deep Learning.
 - The [lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) given at UCL by David Silver (DeepMind) on Reinforcement Learning available on Youtube.
-- Resources on [Qingyuan Zhao's website](http://www.statslab.cam.ac.uk/~qz280/teaching/causal-2020/) on Causal Inference
+- [Learning resources](https://deepmind.com/learning-resources) provided by DeepMind.
+- Resources on [Qingyuan Zhao's website](http://www.statslab.cam.ac.uk/~qz280/teaching/causal-2020/) on Causal Inference.
 - [Kaggle courses and competitions](https://www.kaggle.com/) in order to put into practice theories (ML, DL, NLP,...)
 - For French readers : un [lexique utile](http://variances.eu/?p=5212&fbclid=IwAR3iBy6FM3TDI4m_0BJyyp3iDZ8xrqXXtQ3otVSz44RdDBMqXI-vMl3seAI ) pour le jargon du ML 
 - [Deep learning courses](http://introtodeeplearning.com/) by MIT 
@@ -33,6 +34,7 @@ I want to add some other interesting resources :
 - A non-exhaustive [list](https://medium.springboard.com/30-twitter-influencers-you-have-to-follow-for-ai-machine-learning-977587b6406e) of some Twitter influencers on AI. 
 - [Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) by Chip Huyen. Her [blog](https://huyenchip.com/blog/) contains interesting articles also. 
 - [Datasets](https://paperswithcode.com/datasets) from paperswithcode.  
+- Open-Source Machine Learning libraries : [Scikit-learn](https://scikit-learn.org/stable/), [Keras.io](https://keras.io/), [TensorFlow](https://www.tensorflow.org), [PyTorch](https://pytorch.org/), [CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/) (Microsoft), Berkeley AI Research library [Caffe](https://caffe.berkeleyvision.org/).
 
 
 If you are interested in adding resources on this post, please feel free to send me a message. 
