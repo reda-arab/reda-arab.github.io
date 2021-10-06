@@ -1,6 +1,6 @@
 ---
-title: 'Gathering of ressources/interesting links'
-date: 2021-06-21
+title: 'Gathering of ressources/interesting links on Machine Learning'
+date: 2021-10-05
 permalink: /posts/2020/07/gathering-ressources/
 excerpt: This blog post aims to provide different ressources gathered in a simple way. <br/><img src='/images/centralization.png' style="width:256px;height:256px;">
 tags:
@@ -10,9 +10,7 @@ tags:
   - Gathering of information
 ---
 
-Gathering information is important and critical. I sometimes struggle to find important information as it is often scattered in different websites (for example on blogs, newspapers articles, university websites, PDFs ,...).
-It will be useful to create structures to gather important data and ressources in simple and efficient ways in order to access to information easily and quickly. It could be very interesting if people who have an expertise in a field and who are in a position in which they know which ressources are important (e.g. experts, researchers) do it more often. 
-The aim of this blog post is to try to apply this idea in practice for some fields. 
+The aim of this blog post is to gather different ressource for some fields. 
 
 I will update this post or create a serie of posts in the future to add/update the ressources.
 
@@ -35,11 +33,6 @@ I want to add some other interesting ressources :
 - A non-exhaustive [list](https://medium.springboard.com/30-twitter-influencers-you-have-to-follow-for-ai-machine-learning-977587b6406e) of some Twitter influencers on AI. 
 - [Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) by Chip Huyen. Her [blog](https://huyenchip.com/blog/) contains interesting articles also. 
 - [Datasets](https://paperswithcode.com/datasets) from paperswithcode.  
-- Open-Source Machine Learning libraries : [Scikit-Learn](https://scikit-learn.org/stable/) , [Keras.io](https://keras.io/), [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/) (Microsoft), [Caffe](https://caffe.berkeleyvision.org/) (library of Berkeley AI Research - BAIR).
-
-PhD ressources 
-======
-An [interesting blog post](https://gdalle.github.io/PhDResources/) published by Guillaume Dalle on useful ressources for PhD students 
 
 
 If you are interesting in adding ressources on this post, please feel free to send me a message. 
