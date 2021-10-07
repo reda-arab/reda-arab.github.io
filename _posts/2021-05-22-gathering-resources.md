@@ -37,7 +37,6 @@ I want to add some other interesting resources :
 - [Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) by Chip Huyen. Her [blog](https://huyenchip.com/blog/) contains interesting articles also. 
 - [Datasets](https://paperswithcode.com/datasets) from paperswithcode.  
 - Open-Source Machine Learning libraries : [Scikit-learn](https://scikit-learn.org/stable/), [Keras.io](https://keras.io/), [TensorFlow](https://www.tensorflow.org), [PyTorch](https://pytorch.org/), [CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/) (Microsoft), Berkeley AI Research library [Caffe](https://caffe.berkeleyvision.org/).
--
 
 
 If you are interested in adding resources on this post, please feel free to send me a message. 
