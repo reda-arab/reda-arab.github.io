@@ -18,7 +18,7 @@ N.B. : The way I choose resources is based only on what I found useful and relev
 
 Machine Learning resources
 ======
-You can find [here](https://sgfin.github.io/learning-resources/?fbclid=IwAR1mdvyzKHj4Z1jvBKsZTzpZiDwDO8wRmAruv69p_1I223WizSuwqhVy9fE#causal) a blog post of Sam Finlayson who gathered a lot of resources and published them online. A similar type of [blog post](https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524) on Medium from Robbie Allen.
+You can find [here](https://sgfin.github.io/learning-resources/?fbclid=IwAR1mdvyzKHj4Z1jvBKsZTzpZiDwDO8wRmAruv69p_1I223WizSuwqhVy9fE#causal) a blog post of Sam Finlayson who gathered a lot of resources and published them online. A similar type of [blog post](https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524) on Medium from Robbie Allen. You will find other learning resources on this [Twitter thread](https://mobile.twitter.com/TivadarDanka/status/1440281314398138373?fbclid=IwAR2wireUsDD9c9qlz9qLwnOtXSNyeRLkMTCCGBeWaOxrkNzPQMlJHTegtdM).
 
 
 I want to add some other interesting resources : 
