@@ -2,7 +2,7 @@
 title: 'Confounding/Facteur de confusion'
 date: 2020-08-19
 permalink: /posts/2020/08/confounding/
-excerpt: This blog post aims to explain confounding. <br/><img src='/images/confounding.png' style="width:256px;height:256px;">
+excerpt: This blog post aims to explain confounding. <br/><img src='/images/confounding.png' style="width:180px;height:180px;">
 tags:
   - Causal Inference 
   - Statistics
