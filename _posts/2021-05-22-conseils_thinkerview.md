@@ -2,7 +2,7 @@
 title: 'Conseils aux jeunes générations de Thinkerview'
 date: 2021-05-22
 permalink: /posts/2021/05/conseils_thinkerview/
-excerpt: L'objectif de ce post est de regrouper les conseils aux jeunes générations donnés par les intervenants de Thinkerview. <br/><img src='/images/thinkerview.png' style="width:256px;height:200px;">
+excerpt: L'objectif de ce post est de regrouper les conseils aux jeunes générations donnés par les intervenants de Thinkerview. <br/><img src='/images/thinkerview.png' style="width:260px;height:180px;">
 tags:
   - Thinkerview
   - Conseils
