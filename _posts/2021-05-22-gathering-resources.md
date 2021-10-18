@@ -2,7 +2,7 @@
 title: 'Gathering of resources/interesting links on Machine Learning'
 date: 2021-10-05
 permalink: /posts/2021/10/gathering-resources/
-excerpt: This blog post aims to provide different resources gathered in a simple way. <br/><img src='/images/centralization.png' style="width:150px;height:150px;">
+excerpt: This blog post aims to provide different resources gathered in a simple way. <br/><img src='/images/centralization.png' style="width:170px;height:170px;">
 tags:
   - ML
   - DL
