@@ -16,13 +16,16 @@ I will update this post or create a serie of posts in the future to add/update t
 
 N.B. : The way I choose resources is based only on what I found useful and relevant.
 
+Last update : 21/10/2021
+
 Machine Learning resources
 ======
 You can find [here](https://sgfin.github.io/learning-resources/?fbclid=IwAR1mdvyzKHj4Z1jvBKsZTzpZiDwDO8wRmAruv69p_1I223WizSuwqhVy9fE#causal) a blog post of Sam Finlayson who gathered a lot of resources and published them online. A similar type of [blog post](https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524) on Medium from Robbie Allen. You will find other learning resources on this [Twitter thread](https://mobile.twitter.com/TivadarDanka/status/1440281314398138373?fbclid=IwAR2wireUsDD9c9qlz9qLwnOtXSNyeRLkMTCCGBeWaOxrkNzPQMlJHTegtdM).
 
 
 I want to add some other interesting resources : 
-- All courses on [Coursera](https://www.coursera.org/) given by deeplearning.ai and Andrew Ng concerning Machine Learning and Deep Learning.
+- All courses on [Coursera](https://www.coursera.org/) given by deeplearning.ai and Andrew Ng concerning Machine Learning and Deep Learning. 
+- Courses on [Stanford Online](https://online.stanford.edu/), especially [Statistical Learning](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning) given by Robert Tibshirani and Trevor Hastie. 
 - The [lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) given at UCL by David Silver (DeepMind) on Reinforcement Learning available on Youtube.
 - [Learning resources](https://deepmind.com/learning-resources) provided by DeepMind.
 - Resources on [Qingyuan Zhao's website](http://www.statslab.cam.ac.uk/~qz280/teaching/causal-2020/) on Causal Inference.
