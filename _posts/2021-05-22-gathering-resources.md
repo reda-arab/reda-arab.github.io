@@ -16,7 +16,7 @@ I will update this post or create a serie of posts in the future to add/update t
 
 N.B. : The way I choose resources is based only on what I found useful and relevant.
 
-Last update : 21/10/2021
+Last update : 30/10/2021
 
 Machine Learning resources
 ======
