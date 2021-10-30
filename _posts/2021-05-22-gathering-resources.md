@@ -28,6 +28,7 @@ I want to add some other interesting resources :
 - Courses on [Stanford Online](https://online.stanford.edu/), especially [Statistical Learning](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning) given by Robert Tibshirani and Trevor Hastie. 
 - The [lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) given at UCL by David Silver (DeepMind) on Reinforcement Learning available on Youtube.
 - [Learning resources](https://deepmind.com/learning-resources) provided by DeepMind.
+- [Lectures of Kilian Weinberger](https://www.youtube.com/channel/UC7p_I0qxYZP94vhesuLAWNA/videos) at Cornell University on Youtube 
 - Resources on [Qingyuan Zhao's website](http://www.statslab.cam.ac.uk/~qz280/teaching/causal-2020/) on Causal Inference.
 - [Kaggle courses and competitions](https://www.kaggle.com/) in order to put into practice theories (ML, DL, NLP,...)
 - For French readers : un [lexique utile](http://variances.eu/?p=5212&fbclid=IwAR3iBy6FM3TDI4m_0BJyyp3iDZ8xrqXXtQ3otVSz44RdDBMqXI-vMl3seAI ) pour le jargon du ML 
