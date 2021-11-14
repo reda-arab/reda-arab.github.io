@@ -2,7 +2,7 @@
 title: 'PCA : an intuitive mathematical explanation '
 date: 2021-10-05
 permalink: /posts/2021/10/PCA-explanation/
-excerpt: This blog post aims to give an intuitive explanation of PCA. <br/><img src='/images/PCA.jpg' style="width:320px;height:216px;">
+excerpt: This blog post aims to give an intuitive explanation of PCA. <br/><img src='/images/PCA.jpg' style="width:250px;height:216px;">
 tags:
   - PCA
   - Dimension reduction
