@@ -21,6 +21,8 @@ decision trees, pruning, bagging, random forest, boosting.
 
 I will focus on specific libraries and new methods in another articles (e.g. XGBoost, CatBoost, LGBM)
 
+
+
 Interesting ressources on tree-based methods  : 
 ======
 - The course [Statistical Learning](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning) available on the plateform Stanford Online.
