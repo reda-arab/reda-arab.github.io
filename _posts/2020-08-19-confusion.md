@@ -12,6 +12,8 @@ French version
 ======
 Vous trouverez [ce document](https://reda-arab.github.io/files/Facteur de confusion.pdf) qui tend à expliquer de façon intuitive la notion de facteur de confusion à travers deux exemples. 
 
+J'ai rajouté les exemples du document sur la page [Wikipédia](https://fr.wikipedia.org/wiki/Facteur_de_confusion) en français.
+
 English version 
 ======
 This [document](https://reda-arab.github.io/files/Confounding.pdf) aims to explain intuitively the notion of confounding through two examples. 
