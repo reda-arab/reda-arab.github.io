@@ -2,7 +2,7 @@
 title: 'Tree-based methods : basics'
 date: 2021-11-14
 permalink: /posts/2021/10/Tree-based-methods/
-excerpt: Cheatsheet on tree-based methods. <br/><img src='/images/Random_Forest.gif' style="width:350px;height:156px;">
+excerpt: Cheatsheet on tree-based methods. <br/><img src='/images/Random_Forest.gif' style="width:380px;height:156px;">
 tags:
   - Decision-trees
   - CART trees
