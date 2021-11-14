@@ -25,7 +25,7 @@ I will focus on specific libraries and new methods in another articles (e.g. XGB
 
 Interesting ressources on tree-based methods  : 
 ======
-- The course [Statistical Learning](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning) available on the plateform Stanford Online.
+- The course [Statistical Learning](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning) available on the plateform Stanford Online (chapter 8).
 You can also find it on [Youtube](https://www.youtube.com/watch?v=XvdLKUOldkE&list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V&index=48).
 
 - You can also refer to the textbook [An Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf) or
