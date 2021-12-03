@@ -53,9 +53,11 @@ Last update : 03/12/2021
 
 ### Exposure to news, influencers
 - A non-exhaustive [list](https://medium.springboard.com/30-twitter-influencers-you-have-to-follow-for-ai-machine-learning-977587b6406e) of some Twitter influencers on AI. 
+- For French readers, a lot of [short and interesting articles](https://datascientest.com/blog-data-ia-actualites/tous-nos-articles) on [DataScientest](https://datascientest.com/).
 
 ### Cheatsheets
 - Different [cheatsheets](https://github.com/shervinea?tab=repositories) by Shervine Amidi
+- My personal cheatsheets on [tree-based methods](https://reda-arab.github.io/files/Tree_based_Methods.pdf) and [PCA](https://reda-arab.github.io/files/PCA_explanation_english.pdf)
 
 ### Datasets
 - [Datasets](https://paperswithcode.com/datasets) from paperswithcode. 
