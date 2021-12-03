@@ -23,7 +23,7 @@ An [French version](https://reda-arab.github.io/files/PCA_Explication_intuitive_
 
 ### Academic notes 
 - Well-explained lectures by Ryan Tibshirani : [part I](https://reda-arab.github.io/files/07-dim1.pdf), [part II](https://reda-arab.github.io/files/08-dim2.pdf) and [part III](https://reda-arab.github.io/files/09-dim3.pdf). The entire course on Data Mining can be found [here](https://www.stat.cmu.edu/~ryantibs/datamining/lectures/).
-- [Lecture notes of the chapter 9 PCA](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/MIT18_650F16_PCA.pdf) of the course Statistics for applications delivered by MIT. They are clear, simple and go straight to the point. 
+- [Lecture notes of the chapter 9 PCA](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/MIT18_650F16_PCA.pdf) of the course *Statistics for applications* delivered by MIT. They are clear, simple and go straight to the point. 
 
 ### Videos
 - A [video](https://www.youtube.com/watch?v=FgakZw6K1QQ) on Youtube by StatQuest.
