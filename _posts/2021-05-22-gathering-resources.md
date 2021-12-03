@@ -1,7 +1,7 @@
 ---
-title: 'Gathering of resources/interesting links on Machine Learning'
-date: 2021-10-05
-permalink: /posts/2021/10/gathering-resources/
+title: 'Gathering of resources/interesting links on Machine Learning (updated)'
+date: 2021-12-03
+permalink: /posts/2021/12/gathering-resources/
 excerpt: This blog post aims to provide different resources gathered in a simple way. <br/><img src='/images/centralization.png' style="width:170px;height:170px;">
 tags:
   - ML
@@ -11,9 +11,7 @@ tags:
 ---
 
 The aim of this blog post is to gather different resources on Machine Learning. 
-
 I will update this post or create a serie of posts in the future to add/update the resources.
-
 N.B. : The way I choose resources is based only on what I found useful and relevant.
 
 Last update : 03/12/2021
