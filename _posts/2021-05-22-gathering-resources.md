@@ -40,7 +40,7 @@ Last update : 03/12/2021
 - Resources on [Qingyuan Zhao's website](http://www.statslab.cam.ac.uk/~qz280/teaching/causal-2020/) on Causal Inference.
 
 ### Mixing of different fields 
-- [Learning resources](https://deepmind.com/learning-resources) provided by DeepMin (DL & RL)
+- [Learning resources](https://deepmind.com/learning-resources) provided by DeepMind (DL & RL)
 - [Kaggle courses and competitions](https://www.kaggle.com/) in order to put into practice theories (ML, DL, NLP,...)
 
 ### Vocabulary for ML, AI
