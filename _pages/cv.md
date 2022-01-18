@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Master of Advanced Studies in Mathematics (Mathematical Statistics) - Part III University of Cambridge, 2019-2020
+* Master's degree in Mathematics, Part III - University of Cambridge, 2019-2020
 * MSc in Applied Mathematics, CentraleSupélec (Centrale Paris) - Paris-Saclay University, 2016-2019
 * CPGE MPSI-MP*, Lycée Louis-le-Grand, 2014-2016 
 
