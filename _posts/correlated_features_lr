@@ -1,0 +1,21 @@
+---
+title: 'Correlated features when doing Linear Regression : a geometrical approach'
+date: 2021-11-14
+permalink: /posts/2022/03/correlated_features_lr/
+excerpt: Correlated features in Linear Regression <br/><img src='/images/corr.jpeg' style="width:380px;height:156px;">
+tags:
+  - Linear Regression
+  - OLS
+  - Orthogonal Projection
+  - Coefficient estimates
+  - Variance of an estimator
+---
+
+
+======
+This [document](https://reda-arab.github.io/files/Correlated features - Linear Regression.pdf) aims to give a geometrical approach of what is happens when two features
+are correlated when applying linear regression/OLS.
+
+
+Another [way](https://towardsdatascience.com/why-exclude-highly-correlated-f
+eatures-when-building-regression-model-34d77a) of seeing it, taking into account eigenvalues and SVD :
