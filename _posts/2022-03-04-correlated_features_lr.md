@@ -11,7 +11,7 @@ tags:
   - Variance of an estimator
 ---
 
-
+Doc
 ======
 This [document](https://reda-arab.github.io/files/Correlated features - Linear Regression.pdf) aims to give a geometrical approach of what is happens when two features
 are correlated when applying linear regression/OLS.
