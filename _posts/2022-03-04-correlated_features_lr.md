@@ -13,8 +13,8 @@ tags:
 
 Goal of the document
 ======
-This [document](https://reda-arab.github.io/files/Correlated features - Linear Regression.pdf) aims to give a geometrical approach of what is happens when two features are correlated when applying linear regression/OLS.
-Indeed, we are investigating another way (formula) to compute the coefficient estimates which give a new insight : we see directly that two highly correlated features improve the variance of the coefficient estimates associated.
+This [document](https://reda-arab.github.io/files/Correlated features - Linear Regression.pdf) aims to give a geometrical approach of what is happening when two features are correlated when applying linear regression/OLS.
+Indeed, we are investigating another way (formula) to compute the coefficient estimates which give us a new insight : we see directly that two highly correlated features improve the variance of the coefficient estimates associated.
 
 
 Another [way](https://towardsdatascience.com/why-exclude-highly-correlated-f
