@@ -2,7 +2,7 @@
 title: 'Correlated features when doing Linear Regression : a geometrical approach'
 date: 2022-03-04
 permalink: /posts/2022/03/correlated_features_lr/
-excerpt: Correlated features in Linear Regression <br/><img src='/images/corr.jpeg' style="width:156px;height:156px;">
+excerpt: Correlated features in Linear Regression <br/><img src='/images/corr.jpeg' style="width:220px;height:156px;">
 tags:
   - Linear Regression
   - OLS
