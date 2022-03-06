@@ -17,5 +17,5 @@ This [document](https://reda-arab.github.io/files/Correlated features - Linear R
 Indeed, we are investigating another way (formula) to compute the coefficient estimates which give us a new insight : we see directly that two highly correlated features improve the variance of the coefficient estimates associated.
 
 
-Another [way](https://towardsdatascience.com/why-exclude-highly-correlated-f
-eatures-when-building-regression-model-34d77a) of seeing it, taking into account eigenvalues and SVD :
+Here is another [way](https://towardsdatascience.com/why-exclude-highly-correlated-features-when-building-regression-model-34d77a90ea8e) of seeing it, taking into account eigenvalues and SVD.
+
