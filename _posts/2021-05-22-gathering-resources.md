@@ -23,7 +23,8 @@ Last update : 03/12/2021
 - [Here](https://sgfin.github.io/learning-resources/?fbclid=IwAR1mdvyzKHj4Z1jvBKsZTzpZiDwDO8wRmAruv69p_1I223WizSuwqhVy9fE#causal) a blog post of Sam Finlayson who gathered a lot of resources and published them online. 
 - A similar type of [blog post](https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524) on Medium from Robbie Allen. 
 - You will find other learning resources on this [Twitter thread](https://mobile.twitter.com/TivadarDanka/status/1440281314398138373?fbclid=IwAR2wireUsDD9c9qlz9qLwnOtXSNyeRLkMTCCGBeWaOxrkNzPQMlJHTegtdM).
-- An [article](https://towardsdatascience.com/best-resources-for-deep-learning-f4c774356734) by Pierre Sadrach which gathers deep learning resources
+- An [article](https://towardsdatascience.com/best-resources-for-deep-learning-f4c774356734) by Pierre Sadrach which gathers deep learning resources.
+- An [article](https://towardsdatascience.com/the-data-science-interview-blueprint-75d69c92516c) on DataScience interviews which gathers a lot of concepts and resources linked to these concepts.
 
 ## Resources by topic
 
