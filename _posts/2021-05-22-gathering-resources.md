@@ -53,10 +53,12 @@ Last update : 07/03/2022
 - An [article](https://towardsdatascience.com/ten-machine-learning-concepts-you-should-know-for-data-science-interviews-70107ca84754) on 10 concepts to know for Data Science Interviews
 - [Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) by Chip Huyen. Her [blog](https://huyenchip.com/blog/) contains interesting articles also. 
 - An [article](https://towardsdatascience.com/the-data-science-interview-blueprint-75d69c92516c) by Leon Chlon gathering a lot of concepts and useful resources for Data Science interviews.
+- A [reddit's post](https://www.reddit.com/r/datascience/comments/syjt0c/hopefully_almost_everything_you_need_to_know/) which provides advice on DS interviews.
 
 ### Exposure to news, influencers
 - A non-exhaustive [list](https://medium.springboard.com/30-twitter-influencers-you-have-to-follow-for-ai-machine-learning-977587b6406e) of some Twitter influencers on AI. 
 - For French readers, a lot of [short and interesting articles](https://datascientest.com/blog-data-ia-actualites/tous-nos-articles) on [DataScientest](https://datascientest.com/).
+- [Toward Data Science](https://towardsdatascience.com/) which contains a lot of interesting articles published by the DS community. 
 
 ### Cheatsheets
 - Different [cheatsheets](https://github.com/shervinea?tab=repositories) by Shervine Amidi
