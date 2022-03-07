@@ -14,7 +14,7 @@ The aim of this blog post is to gather different resources on Machine Learning.
 I will update this post or create a serie of posts in the future to add/update the resources.
 N.B. : The way I choose resources is based only on what I found useful and relevant.
 
-Last update : 03/12/2021
+Last update : 07/03/2022
 
 # Machine Learning resources
 
