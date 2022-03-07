@@ -64,6 +64,7 @@ Last update : 07/03/2022
 
 ### Datasets
 - [Datasets](https://paperswithcode.com/datasets) from paperswithcode. 
+- [Datasets](https://huggingface.co/datasets) for NLP by Hugging Face.
 
 ### Libraries
  - Open-Source Machine Learning libraries : [Scikit-learn](https://scikit-learn.org/stable/), [Keras.io](https://keras.io/), [TensorFlow](https://www.tensorflow.org), [PyTorch](https://pytorch.org/), [CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/) (Microsoft), Berkeley AI Research library [Caffe](https://caffe.berkeleyvision.org/).
