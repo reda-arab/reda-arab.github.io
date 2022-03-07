@@ -25,6 +25,7 @@ Last update : 07/03/2022
 - You will find other learning resources on this [Twitter thread](https://mobile.twitter.com/TivadarDanka/status/1440281314398138373?fbclid=IwAR2wireUsDD9c9qlz9qLwnOtXSNyeRLkMTCCGBeWaOxrkNzPQMlJHTegtdM).
 - An [article](https://towardsdatascience.com/best-resources-for-deep-learning-f4c774356734) by Pierre Sadrach which gathers deep learning resources.
 - An [article](https://towardsdatascience.com/the-data-science-interview-blueprint-75d69c92516c) on DataScience interviews which gathers a lot of concepts and resources linked to these concepts.
+- On the website [thalesians.com](https://thalesians.com/resources/) you can find recommendations for books, videos and datasets in ML (a focus on Finance).
 
 ## Resources by topic
 
