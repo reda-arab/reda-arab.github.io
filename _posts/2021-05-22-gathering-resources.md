@@ -50,6 +50,7 @@ Last update : 03/12/2021
 ### Interviews 
 - An [article](https://towardsdatascience.com/ten-machine-learning-concepts-you-should-know-for-data-science-interviews-70107ca84754) on 10 concepts to know for Data Science Interviews
 - [Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) by Chip Huyen. Her [blog](https://huyenchip.com/blog/) contains interesting articles also. 
+- An [article](https://towardsdatascience.com/the-data-science-interview-blueprint-75d69c92516c) by Leon Chlon gathering a lot of concepts and useful resources for Data Science interviews.
 
 ### Exposure to news, influencers
 - A non-exhaustive [list](https://medium.springboard.com/30-twitter-influencers-you-have-to-follow-for-ai-machine-learning-977587b6406e) of some Twitter influencers on AI. 
