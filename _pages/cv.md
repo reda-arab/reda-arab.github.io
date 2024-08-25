@@ -17,6 +17,22 @@ Education
 
 Work experience
 ======
+* May 2022 - June 2024 : Quantitative Researcher, Fixed Income ML team
+  * Morgan Stanley Paris
+  * Duties:
+    • Developed Deep Learning algorithms for pricing digital options in FX: high-dimensional function approximation with Neural
+    Networks and generation methods for synthetic market conditions
+    • Developed and maintained NLP algorithms for parsing and pricing textual Financial Request For Quotes (RFQs).
+    Worked on a deterministic approach and then focused on learning approaches: leveraged open-source LLMs (Mistral and
+    Llama models) and In-context learning to improve accuracy and develop new features
+    • Worked on signals for eFX and eRates: research on ML models and monitoring (MLOps)
+
+    
+* October 2020-April 2021: Graduate Intern. 
+  * ENS Ulm, LSCP, Paris
+  * Title:  Machine learning for detection and evaluation of Huntington's disease
+  * Supervisor: Pr Emmanuel Dupoux
+
 * Summer 2020 : Research Assistant
   * Department of Medical Genetics, Univeristy of Cambridge 
   * Title : Application of Polya-Gamma density for highly dimensional count regression models
