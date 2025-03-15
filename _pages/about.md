@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-I graduated in Mathematics (Part III) from the [University of Cambridge](http://www.dpmms.cam.ac.uk/) and I also graduated from [Ecole CentraleSupélec](https://en.wikipedia.org/wiki/CentraleSup%C3%A9lec) [(Centrale Paris)](https://en.wikipedia.org/wiki/%C3%89cole_Centrale_Paris) within [Paris-Saclay University](https://en.wikipedia.org/wiki/Paris-Saclay_University) [(see Shanghai Ranking in Mathematics)]([https://www.shanghairanking.com/rankings/gras/2021/RS0101])(https://www.shanghairanking.com/rankings/gras/2024/RS0101).
+I graduated in Mathematics (Part III) from the [University of Cambridge](http://www.dpmms.cam.ac.uk/) and I also graduated from [Ecole CentraleSupélec](https://en.wikipedia.org/wiki/CentraleSup%C3%A9lec) [(Centrale Paris)](https://en.wikipedia.org/wiki/%C3%89cole_Centrale_Paris) within [Paris-Saclay University](https://en.wikipedia.org/wiki/Paris-Saclay_University) [(see Shanghai Ranking in Mathematics)]([https://www.shanghairanking.com/rankings/gras/2021/RS0101]](https://www.shanghairanking.com/rankings/gras/2024/RS0101]).
 
 ## Past roles 
 
