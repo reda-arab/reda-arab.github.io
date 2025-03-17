@@ -15,7 +15,7 @@ I graduated in Mathematics (Part III) from the [University of Cambridge](http://
 I am currently building personal projects on my side.
 
 ## Past roles 
-- I was an intern at the Department of Medical Genitics of the University of Cambridge working on Stastical Learning applied to Genetics and also an intern at ENS Ulm/Inria working on Multi-task learning and Huntington's disease. 
+- I was an intern at the Department of Medical Genetics of the University of Cambridge working on Stastical Learning applied to Genetics and also an intern at ENS Ulm/Inria working on Multi-task learning and Huntington's disease. 
 - I worked for Morgan Stanley as a Quantitative Researcher developping AI models for Financial Markets. 
 
 
